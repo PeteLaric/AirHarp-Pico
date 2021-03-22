@@ -1,0 +1,10 @@
+AirHarp Pico dims
+PCB: 2.8 x 1.7" (71.12 x 43.18 mm)
+
+part locations:
+part		imperial	metric
+LED		<1.5, 1.1>	<38.1, 27.94>
+transpose down  <1.4, 1.5>	<35.56, 38.1>
+transpose up	<1.7, 1.5>	<43.18, 38.1>
+S4		<.35, 0.3>	<8.89, 7.62>
+RX pin		<1.95, 1.15>	<49.53, 29.21>
