@@ -1,0 +1,11 @@
+AirHarp Pico
+http://www.thingiverse.com/thing:676726
+
+The AirHarp is a gestural digital autoharp that allows you to strum chords in the air on a beam of ultrasound!  The AirHarp Pico is the newest instrument in our line, with an impending Kickstarter campaign to manufacture them in quantity.  It's the best AirHarp yet, and we're confident that our customers will agree with us!
+
+For more, check out http://www.airharp.com
+
+
+Tags:
+
+AirHarp, autoharp, MIDI controller, ultrasound, ultrasonic rangefinder, Maxbotix, Lyratron
